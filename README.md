@@ -1,0 +1,4 @@
+- Hi! my name is ciranita, you can call me cira 👋
+- I’m interested in Software Engineering 👀
+- I’m currently learning Python ⚡
+- I’m looking to collaborate on anything 💞️ 
